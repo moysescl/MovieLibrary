@@ -1,0 +1,10 @@
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\bin\Release\MovieLibrary.exe.config
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\bin\Release\MovieLibrary.exe
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\bin\Release\MovieLibrary.pdb
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.client.Login.resources
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.client.MovieLibraryForm.resources
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.Properties.Resources.resources
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.csproj.GenerateResource.cache
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.exe
+D:\VisualStudio\C#\ProjectPart_02\MovieLibraryV2\MovieLibrary\obj\Release\MovieLibrary.pdb

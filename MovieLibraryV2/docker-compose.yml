@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  movielibrary:
+    image: movielibrary
+    build:
+      context: .\MovieLibrary
+      dockerfile: Dockerfile
